@@ -1,0 +1,138 @@
+    <main>
+      <!-- картинка под header -->
+      <div class="headerImg">
+        <div class="bottom-left">
+          <p id="one">A cup of tea is a moment of calm</p>
+          <p id="one">in the chaos of life</p>
+          <p id="two">
+            Wide selection of high-quality teas from all over the world,
+          </p>
+          <p id="two">carefully curated by tea experts.</p>
+        </div>
+        <!-- <img src="./images/Group 91.jpg" alt="" /> -->
+      </div>
+      <!-- притча -->
+      <div class="pritcha">
+        <p>"Tea is not just a drink, it's a way of life and a</p>
+        <p>way to connect with our loved ones."</p>
+      </div>
+      <!-- виды чая -->
+      <div class="vidChai">
+        <p>Explore our Collections</p>
+        <ul class="spisokChai">
+          <li>
+            <img src="./images/tea/1.jpg" alt="" />
+            <p>Black</p>
+          </li>
+          <li>
+            <img src="./images/tea/2.jpg" alt="" />
+            <p>Green</p>
+          </li>
+          <li>
+            <img src="./images/tea/3.jpg" alt="" />
+            <p>White</p>
+          </li>
+          <li>
+            <img src="./images/tea/4.jpg" alt="" />
+            <p>Oolong</p>
+          </li>
+          <li>
+            <img src="./images/tea/5.jpg" alt="" />
+            <p>Pu-erh</p>
+          </li>
+        </ul>
+      </div>
+      <!-- отзывы на чай -->
+      <div class="speaks">
+        <p id="name">What our Clients say</p>
+        <ul class="spisokSpeaks">
+          <li>
+            <q
+              >As a tea enthusiast, I have tried teas from all over the world,
+              but this tea store truly stands out. Their teas are of the highest
+              quality and the variety is impressive. This is definitely a tea
+              store that every tea lover should visit.</q
+            >
+            <p>Alice</p>
+          </li>
+          <li>
+            <q
+              >This tea store is my go-to for all my tea needs. Their selection
+              is unbeatable and the quality of their teas is exceptional.</q
+            >
+            <p>Mad-Hatter</p>
+          </li>
+          <li>
+            <q
+              >If you're a tea lover, you must visit this tea store. The
+              selection is vast and the quality is outstanding. I guarantee you
+              won't be disappointed.</q
+            >
+            <p>Dormouse</p>
+          </li>
+          <li>
+            <q
+              >I am not a big tea drinker, but this tea store has converted me.
+              I highly recommend this tea store to anyone looking for a
+              high-quality tea experience.</q
+            >
+            <p>March Hare</p>
+          </li>
+        </ul>
+      </div>
+      <!-- какая-то реклама -->
+      <div>
+        <p>Our Tea Blog</p>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+        <button>View all</button>
+      </div>
+      <!-- подписка -->
+      <div>
+        <p>Want to know more?</p>
+        <p>
+          Join our mailing list and stay up-to-date with the latest news,
+          promotions, and exclusive offers from our tea store. Be the first to
+          know about new tea arrivals, seasonal blends, and special discounts.
+          Don't miss out on the tea-rrific perks - sign up today!
+        </p>
+        <div>
+          <!-- сложно, форма и слова с флагом -->
+        </div>
+      </div>
+      <!-- плюсы качества бля -->
+      <div>
+        <p>We Prioritise</p>
+        <ul>
+          <li>
+            <p>Single garden teas</p>
+            <p>Complete transparency</p>
+            <img src="" alt="" />
+          </li>
+          <li>
+            <p>Only Loose leaf tea</p>
+            <p>Best Drinking Experience</p>
+            <img src="" alt="" />
+          </li>
+          <li>
+            <p>Customer support</p>
+            <p>No bots, no automated replies</p>
+            <img src="" alt="" />
+          </li>
+          <li>
+            <p>Fast shipping</p>
+            <p>Save, Convenient, Reliable</p>
+            <img src="" alt="" />
+          </li>
+        </ul>
+      </div>
+    </main>
+    <footer>
+      <!-- продукты -->
+      <div></div>
+      <!-- компания -->
+    </footer>
